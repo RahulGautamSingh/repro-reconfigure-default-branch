@@ -1,3 +1,4 @@
 {
-  "baseBranchPatterns": ["$default", "/^disable-next$/"]
+  "baseBranchPatterns": ["$default", "/^disable-next$/"],
+  "labels": ["deps"]
 }
